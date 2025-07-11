@@ -1,0 +1,32 @@
+ h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+.change {
+    color: red;
+}
+
+.price {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.stock {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    row-gap: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    max-width: 260px;
+}
+
+.title {
+    margin-top: 10;
+    margin-bottom: 10;
+}
+
+.pickHeading {
+    margin-top: 10;
+    margin-bottom: 10;
+}
